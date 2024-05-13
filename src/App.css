@@ -1,0 +1,39 @@
+
+
+.cardContainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+.cardItem {
+    margin-bottom: 20px;
+}
+
+.cardItem h1 {
+    margin: 0;
+}
+
+.cardItem img {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.buttonGroup {
+    margin-top: 10px;
+}
+
+.buttonGroup button {
+    margin-right: 10px;
+    /* color: red !important; */
+}
+.button1{
+    color: rgb(255, 119, 0);
+}
+.dm{
+    color: rgb(255, 119, 0);
+}
+
